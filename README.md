@@ -16,6 +16,9 @@ The code consists of several functions and components:
 The code provides a basic implementation of the course recommendation system and can be extended with additional models and functionalities. It demonstrates the integration of Streamlit for building interactive web applications and the usage of different recommendation techniques such as course similarity, user profiling, and clustering.
 
 run the code using :
+
 -> pip install -r requirements.txt
+
 -> streamlit run dashboard_app.py
+
 in the terminal
